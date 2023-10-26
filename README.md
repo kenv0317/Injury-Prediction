@@ -7,6 +7,7 @@
 
 
 ## 構成
+![怪我予測_構成図](https://github.com/kenv0317/Injury-Prediction/assets/71165696/065fe7ab-1b78-4143-bf0d-d2a12523ac83)
 
 ## 各ファイルについて
 - Database_Ceration_2015_2022.ipynb (2015~2022シーズン 成績+怪我データセット作成プログラム)
